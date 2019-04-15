@@ -54,7 +54,8 @@ const styles = StyleSheet.create({
 
 ## Components
 
-GameButton 
+GameButton
+ 
 | Props           | type   | default   |
 |-----------------|--------|-----------|
 | text            | String | "Play"    |
@@ -64,13 +65,15 @@ GameButton
 | backgroundColor | string | "#6BCFA4" |
 
 IconButton
+
 | Props           | type   | default   |
 |-----------------|--------|-----------|
 | small           | bool   | false     |
 | name            | String | "play"    |
 | backgroundColor | string | "#20B2AA" |
 
-GameIcon 
+GameIcon
+
 | Props | type   | default |
 |-------|--------|---------|
 | small | bool   | false   |
