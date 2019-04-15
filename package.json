@@ -1,0 +1,23 @@
+{
+  "name": "react-native-gameui",
+  "version": "1.0.3",
+  "description": "React native game UI components",
+  "main": "src/index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holasebas/react-native-gameui.git"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
+  "author": "Sebastian Diaz",
+  "license": "ISC"
+  
+}
