@@ -1,6 +1,6 @@
 # React Native Game UI
 
-![gameui](http://thundercatsum.com/gameui.png)
+![gameui](https://github.com/holasebas/react-native-gameui/blob/master/src/assets/gameui.png)
 
 I don't know why I did this probably I just got nothing to do. This is a game UI library for react native, all components (mens only 4) have been tasted on iOS. I am currently working on all Android features. Write me a [tweet](https://twitter.com/home) if you'd like to help me, I 'd like to add more features.
 
